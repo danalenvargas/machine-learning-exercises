@@ -3,7 +3,7 @@
 These are my solutions for the exercises in [Coursera's Machine Learning Course][1], taught by Andrew Ng from Stanford University
 
 -------------------------------
-####Topics:
+#### Topics:
   - Linear Regression
   - Logistic Regression
   - Multi-class Classification and Neural Networks
@@ -14,7 +14,7 @@ These are my solutions for the exercises in [Coursera's Machine Learning Course]
   - Anomaly Detection and Recommender Systems
 
 -------------------------------
-####Stuff provided by the course and not written by me:
+#### Stuff provided by the course and not written by me:
   - instructions in the pdf file
   - ready-to-use datasets
   - the main functions that guide the student and make calls to functions that the student will write
