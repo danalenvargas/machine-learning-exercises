@@ -1,4 +1,4 @@
-# Exercises for Coursera's Machine Learning Course
+# Exercises from Coursera's Machine Learning Course
 
 These are my solutions to the exercises from [Coursera's Machine Learning Course][1], taught by Andrew Ng from Stanford University
 
